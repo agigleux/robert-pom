@@ -15,7 +15,7 @@
 		<groupId>org.springframework.boot</groupId>
 		<artifactId>spring-boot-starter-parent</artifactId>
 		<version>2.3.0.RELEASE</version>
-		<relativePath />
+		<relativePath/>
 	</parent>
 
 	<groupId>fr.gouv.stopc</groupId>
@@ -42,7 +42,7 @@
 		<maven.jar.plugin.version>3.1.1</maven.jar.plugin.version>
 		<javax-rs.version>2.1.1</javax-rs.version>
 		<grpc.version>1.29.0</grpc.version>
-		<protobuf.version>3.11.0</protobuf.version>
+		<protobuf.version>3.24.0</protobuf.version>
 		<error_prone_annotations.version>2.3.4</error_prone_annotations.version>
 
 		<sonar.organization>agigleux-github</sonar.organization>
